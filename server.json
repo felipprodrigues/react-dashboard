@@ -2,603 +2,777 @@
   "tags": [
     {
       "title": "Advanced React Techniques",
+      "slug": "old",
       "amountOfVideos": 63
     },
     {
       "title": "Mastering React Development",
+      "slug": "old",
       "amountOfVideos": 28
     },
     {
       "title": "React Essentials",
+      "slug": "old",
       "amountOfVideos": 92
     },
     {
       "title": "React in Practice",
+      "slug": "old",
       "amountOfVideos": 50
     },
     {
       "title": "React Fundamentals Explained",
+      "slug": "old",
       "amountOfVideos": 17
     },
     {
       "title": "Modern React Applications",
+      "slug": "old",
       "amountOfVideos": 74
     },
     {
       "title": "React for Beginners",
+      "slug": "old",
       "amountOfVideos": 39
     },
     {
       "title": "Building Scalable React Apps",
+      "slug": "old",
       "amountOfVideos": 40
     },
     {
       "title": "React Mastery Course",
+      "slug": "old",
       "amountOfVideos": 65
     },
     {
       "title": "React Hooks Deep Dive",
+      "slug": "old",
       "amountOfVideos": 120
     },
     {
       "title": "React Native Development",
+      "slug": "old",
       "amountOfVideos": 5
     },
     {
       "title": "React State Management",
+      "slug": "old",
       "amountOfVideos": 81
     },
     {
       "title": "React Components Library",
+      "slug": "old",
       "amountOfVideos": 28
     },
     {
       "title": "Advanced React Patterns",
+      "slug": "old",
       "amountOfVideos": 37
     },
     {
       "title": "React Testing Strategies",
+      "slug": "old",
       "amountOfVideos": 109
     },
     {
       "title": "React Performance Optimization",
+      "slug": "old",
       "amountOfVideos": 92
     },
     {
       "title": "React UI Design Principles",
+      "slug": "old",
       "amountOfVideos": 12
     },
     {
       "title": "Building React Portfolios",
+      "slug": "old",
       "amountOfVideos": 59
     },
     {
       "title": "React Animation Techniques",
+      "slug": "old",
       "amountOfVideos": 78
     },
     {
       "title": "React Security Best Practices",
+      "slug": "old",
       "amountOfVideos": 2
     },
     {
       "title": "React Project Management",
+      "slug": "old",
       "amountOfVideos": 45
     },
     {
       "title": "React Server-Side Rendering",
+      "slug": "old",
       "amountOfVideos": 81
     },
     {
       "title": "React for Data Visualization",
+      "slug": "old",
       "amountOfVideos": 62
     },
     {
       "title": "React for Mobile Apps",
+      "slug": "old",
       "amountOfVideos": 19
     },
     {
       "title": "React Design Patterns",
+      "slug": "old",
       "amountOfVideos": 101
     },
     {
       "title": "React Redux Integration",
+      "slug": "old",
       "amountOfVideos": 55
     },
     {
       "title": "React API Integration",
+      "slug": "old",
       "amountOfVideos": 30
     },
     {
       "title": "Advanced React Routing",
+      "slug": "old",
       "amountOfVideos": 113
     },
     {
       "title": "React GraphQL Integration",
+      "slug": "old",
       "amountOfVideos": 84
     },
     {
       "title": "React Best Practices",
+      "slug": "old",
       "amountOfVideos": 7
     },
     {
       "title": "Advanced React Techniques",
+      "slug": "old",
       "amountOfVideos": 63
     },
     {
       "title": "Mastering React Development",
+      "slug": "old",
       "amountOfVideos": 28
     },
     {
       "title": "React Essentials",
+      "slug": "old",
       "amountOfVideos": 92
     },
     {
       "title": "React in Practice",
+      "slug": "old",
       "amountOfVideos": 50
     },
     {
       "title": "React Fundamentals Explained",
+      "slug": "old",
       "amountOfVideos": 17
     },
     {
       "title": "Modern React Applications",
+      "slug": "old",
       "amountOfVideos": 74
     },
     {
       "title": "React for Beginners",
+      "slug": "old",
       "amountOfVideos": 39
     },
     {
       "title": "Building Scalable React Apps",
+      "slug": "old",
       "amountOfVideos": 40
     },
     {
       "title": "React Mastery Course",
+      "slug": "old",
       "amountOfVideos": 65
     },
     {
       "title": "React Hooks Deep Dive",
+      "slug": "old",
       "amountOfVideos": 120
     },
     {
       "title": "React Native Development",
+      "slug": "old",
       "amountOfVideos": 5
     },
     {
       "title": "React State Management",
+      "slug": "old",
       "amountOfVideos": 81
     },
     {
       "title": "React Components Library",
+      "slug": "old",
       "amountOfVideos": 28
     },
     {
       "title": "Advanced React Patterns",
+      "slug": "old",
       "amountOfVideos": 37
     },
     {
       "title": "React Testing Strategies",
+      "slug": "old",
       "amountOfVideos": 109
     },
     {
       "title": "React Performance Optimization",
+      "slug": "old",
       "amountOfVideos": 92
     },
     {
       "title": "React UI Design Principles",
+      "slug": "old",
       "amountOfVideos": 12
     },
     {
       "title": "Building React Portfolios",
+      "slug": "old",
       "amountOfVideos": 59
     },
     {
       "title": "React Animation Techniques",
+      "slug": "old",
       "amountOfVideos": 78
     },
     {
       "title": "React Security Best Practices",
+      "slug": "old",
       "amountOfVideos": 2
     },
     {
       "title": "React Project Management",
+      "slug": "old",
       "amountOfVideos": 45
     },
     {
       "title": "React Server-Side Rendering",
+      "slug": "old",
       "amountOfVideos": 81
     },
     {
       "title": "React for Data Visualization",
+      "slug": "old",
       "amountOfVideos": 62
     },
     {
       "title": "React for Mobile Apps",
+      "slug": "old",
       "amountOfVideos": 19
     },
     {
       "title": "React Design Patterns",
+      "slug": "old",
       "amountOfVideos": 101
     },
     {
       "title": "React Redux Integration",
+      "slug": "old",
       "amountOfVideos": 55
     },
     {
       "title": "React API Integration",
+      "slug": "old",
       "amountOfVideos": 30
     },
     {
       "title": "Advanced React Routing",
+      "slug": "old",
       "amountOfVideos": 113
     },
     {
       "title": "React GraphQL Integration",
+      "slug": "old",
       "amountOfVideos": 84
     },
     {
       "title": "React Best Practices",
+      "slug": "old",
       "amountOfVideos": 7
     },
     {
       "title": "Advanced React Techniques",
+      "slug": "old",
       "amountOfVideos": 63
     },
     {
       "title": "Mastering React Development",
+      "slug": "old",
       "amountOfVideos": 28
     },
     {
       "title": "React Essentials",
+      "slug": "old",
       "amountOfVideos": 92
     },
     {
       "title": "React in Practice",
+      "slug": "old",
       "amountOfVideos": 50
     },
     {
       "title": "React Fundamentals Explained",
+      "slug": "old",
       "amountOfVideos": 17
     },
     {
       "title": "Modern React Applications",
+      "slug": "old",
       "amountOfVideos": 74
     },
     {
       "title": "React for Beginners",
+      "slug": "old",
       "amountOfVideos": 39
     },
     {
       "title": "Building Scalable React Apps",
+      "slug": "old",
       "amountOfVideos": 40
     },
     {
       "title": "React Mastery Course",
+      "slug": "old",
       "amountOfVideos": 65
     },
     {
       "title": "React Hooks Deep Dive",
+      "slug": "old",
       "amountOfVideos": 120
     },
     {
       "title": "React Native Development",
+      "slug": "old",
       "amountOfVideos": 5
     },
     {
       "title": "React State Management",
+      "slug": "old",
       "amountOfVideos": 81
     },
     {
       "title": "React Components Library",
+      "slug": "old",
       "amountOfVideos": 28
     },
     {
       "title": "Advanced React Patterns",
+      "slug": "old",
       "amountOfVideos": 37
     },
     {
       "title": "React Testing Strategies",
+      "slug": "old",
       "amountOfVideos": 109
     },
     {
       "title": "React Performance Optimization",
+      "slug": "old",
       "amountOfVideos": 92
     },
     {
       "title": "React UI Design Principles",
+      "slug": "old",
       "amountOfVideos": 12
     },
     {
       "title": "Building React Portfolios",
+      "slug": "old",
       "amountOfVideos": 59
     },
     {
       "title": "React Animation Techniques",
+      "slug": "old",
       "amountOfVideos": 78
     },
     {
       "title": "React Security Best Practices",
+      "slug": "old",
       "amountOfVideos": 2
     },
     {
       "title": "React Project Management",
+      "slug": "old",
       "amountOfVideos": 45
     },
     {
       "title": "React Server-Side Rendering",
+      "slug": "old",
       "amountOfVideos": 81
     },
     {
       "title": "React for Data Visualization",
+      "slug": "old",
       "amountOfVideos": 62
     },
     {
       "title": "React for Mobile Apps",
+      "slug": "old",
       "amountOfVideos": 19
     },
     {
       "title": "React Design Patterns",
+      "slug": "old",
       "amountOfVideos": 101
     },
     {
       "title": "React Redux Integration",
+      "slug": "old",
       "amountOfVideos": 55
     },
     {
       "title": "React API Integration",
+      "slug": "old",
       "amountOfVideos": 30
     },
     {
       "title": "Advanced React Routing",
+      "slug": "old",
       "amountOfVideos": 113
     },
     {
       "title": "React GraphQL Integration",
+      "slug": "old",
       "amountOfVideos": 84
     },
     {
       "title": "React Best Practices",
+      "slug": "old",
       "amountOfVideos": 7
     },
     {
       "title": "Advanced React Techniques",
+      "slug": "old",
       "amountOfVideos": 63
     },
     {
       "title": "Mastering React Development",
+      "slug": "old",
       "amountOfVideos": 28
     },
     {
       "title": "React Essentials",
+      "slug": "old",
       "amountOfVideos": 92
     },
     {
       "title": "React in Practice",
+      "slug": "old",
       "amountOfVideos": 50
     },
     {
       "title": "React Fundamentals Explained",
+      "slug": "old",
       "amountOfVideos": 17
     },
     {
       "title": "Modern React Applications",
+      "slug": "old",
       "amountOfVideos": 74
     },
     {
       "title": "React for Beginners",
+      "slug": "old",
       "amountOfVideos": 39
     },
     {
       "title": "Building Scalable React Apps",
+      "slug": "old",
       "amountOfVideos": 40
     },
     {
       "title": "React Mastery Course",
+      "slug": "old",
       "amountOfVideos": 65
     },
     {
       "title": "React Hooks Deep Dive",
+      "slug": "old",
       "amountOfVideos": 120
     },
     {
       "title": "React Native Development",
+      "slug": "old",
       "amountOfVideos": 5
     },
     {
       "title": "React State Management",
+      "slug": "old",
       "amountOfVideos": 81
     },
     {
       "title": "React Components Library",
+      "slug": "old",
       "amountOfVideos": 28
     },
     {
       "title": "Advanced React Patterns",
+      "slug": "old",
       "amountOfVideos": 37
     },
     {
       "title": "React Testing Strategies",
+      "slug": "old",
       "amountOfVideos": 109
     },
     {
       "title": "React Performance Optimization",
+      "slug": "old",
       "amountOfVideos": 92
     },
     {
       "title": "React UI Design Principles",
+      "slug": "old",
       "amountOfVideos": 12
     },
     {
       "title": "Building React Portfolios",
+      "slug": "old",
       "amountOfVideos": 59
     },
     {
       "title": "React Animation Techniques",
+      "slug": "old",
       "amountOfVideos": 78
     },
     {
       "title": "React Security Best Practices",
+      "slug": "old",
       "amountOfVideos": 2
     },
     {
       "title": "React Project Management",
+      "slug": "old",
       "amountOfVideos": 45
     },
     {
       "title": "React Server-Side Rendering",
+      "slug": "old",
       "amountOfVideos": 81
     },
     {
       "title": "React for Data Visualization",
+      "slug": "old",
       "amountOfVideos": 62
     },
     {
       "title": "React for Mobile Apps",
+      "slug": "old",
       "amountOfVideos": 19
     },
     {
       "title": "React Design Patterns",
+      "slug": "old",
       "amountOfVideos": 101
     },
     {
       "title": "React Redux Integration",
+      "slug": "old",
       "amountOfVideos": 55
     },
     {
       "title": "React API Integration",
+      "slug": "old",
       "amountOfVideos": 30
     },
     {
       "title": "Advanced React Routing",
+      "slug": "old",
       "amountOfVideos": 113
     },
     {
       "title": "React GraphQL Integration",
+      "slug": "old",
       "amountOfVideos": 84
     },
     {
       "title": "React Best Practices",
+      "slug": "old",
       "amountOfVideos": 7
     },
     {
       "title": "Advanced React Techniques",
+      "slug": "old",
       "amountOfVideos": 63
     },
     {
       "title": "Mastering React Development",
+      "slug": "old",
       "amountOfVideos": 28
     },
     {
       "title": "React Essentials",
+      "slug": "old",
       "amountOfVideos": 92
     },
     {
       "title": "React in Practice",
+      "slug": "old",
       "amountOfVideos": 50
     },
     {
       "title": "React Fundamentals Explained",
+      "slug": "old",
       "amountOfVideos": 17
     },
     {
       "title": "Modern React Applications",
+      "slug": "old",
       "amountOfVideos": 74
     },
     {
       "title": "React for Beginners",
+      "slug": "old",
       "amountOfVideos": 39
     },
     {
       "title": "Building Scalable React Apps",
+      "slug": "old",
       "amountOfVideos": 40
     },
     {
       "title": "React Mastery Course",
+      "slug": "old",
       "amountOfVideos": 65
     },
     {
       "title": "React Hooks Deep Dive",
+      "slug": "old",
       "amountOfVideos": 120
     },
     {
       "title": "React Native Development",
+      "slug": "old",
       "amountOfVideos": 5
     },
     {
       "title": "React State Management",
+      "slug": "old",
       "amountOfVideos": 81
     },
     {
       "title": "React Components Library",
+      "slug": "old",
       "amountOfVideos": 28
     },
     {
       "title": "Advanced React Patterns",
+      "slug": "old",
       "amountOfVideos": 37
     },
     {
       "title": "React Testing Strategies",
+      "slug": "old",
       "amountOfVideos": 109
     },
     {
       "title": "React Performance Optimization",
+      "slug": "old",
       "amountOfVideos": 92
     },
     {
       "title": "React UI Design Principles",
+      "slug": "old",
       "amountOfVideos": 12
     },
     {
       "title": "Building React Portfolios",
+      "slug": "old",
       "amountOfVideos": 59
     },
     {
       "title": "React Animation Techniques",
+      "slug": "old",
       "amountOfVideos": 78
     },
     {
       "title": "React Security Best Practices",
+      "slug": "old",
       "amountOfVideos": 2
     },
     {
       "title": "React Project Management",
+      "slug": "old",
       "amountOfVideos": 45
     },
     {
       "title": "React Server-Side Rendering",
+      "slug": "old",
       "amountOfVideos": 81
     },
     {
       "title": "React for Data Visualization",
+      "slug": "old",
       "amountOfVideos": 62
     },
     {
       "title": "React for Mobile Apps",
+      "slug": "old",
       "amountOfVideos": 19
     },
     {
       "title": "React Design Patterns",
+      "slug": "old",
       "amountOfVideos": 101
     },
     {
       "title": "React Redux Integration",
+      "slug": "old",
       "amountOfVideos": 55
     },
     {
       "title": "React API Integration",
+      "slug": "old",
       "amountOfVideos": 30
     },
     {
       "title": "Advanced React Routing",
+      "slug": "old",
       "amountOfVideos": 113
     },
     {
       "title": "React GraphQL Integration",
+      "slug": "old",
       "amountOfVideos": 84
     },
     {
       "title": "React Best Practices",
+      "slug": "old",
       "amountOfVideos": 7
+    },
+    {
+      "id": "b8a9",
+      "title": "brand new tag",
+      "slug": "brand-new-tag",
+      "amountOfVideos": 0
+    },
+    {
+      "id": "5874",
+      "title": "312",
+      "slug": "312",
+      "amountOfVideos": 0
+    },
+    {
+      "id": "f4fe",
+      "title": "teste mutation",
+      "slug": "teste-mutation",
+      "amountOfVideos": 0
+    },
+    {
+      "id": "7a1c",
+      "title": "deve aparecr sozinho",
+      "slug": "deve-aparecr-sozinho",
+      "amountOfVideos": 0
     }
   ]
 }
